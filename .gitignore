@@ -1,3 +1,5 @@
 .venv
 build
 dist
+app-GUI.spec
+simple_app.spec
